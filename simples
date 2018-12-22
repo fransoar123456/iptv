@@ -1,0 +1,109 @@
+EXTM3U
+
+#EXTM3U
+
+#EXTINF:-1 group-title="FILMES/SERIES" , ACM
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , CINEMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
+
+
+#EXTINF:-1 group-title="FILMES/SERIES" , HBO FAMILY
+http://ul.cdn584.net:8080/hls/zsiqbbr.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES" , HBO FAMILY 2
+
+#EXTINF:-1 group-title="FILMES/SERIES" , FOX
+https://ccv3.azureedge.net//hls1/fox.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , PARAMOUNT
+https://ccv3.azureedge.net//hls1/paramount.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , PARAMOUNT -SD
+https://ccv3.azureedge.net//hls1/paramount-sd.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , SPACE
+https://ccv3.azureedge.net//hls1/space.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , SPACE -SD
+https://ccv3.azureedge.net//hls1/space-sd.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , WARNER 
+https://ccv3.azureedge.net//hls1/warner.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , WARNER -SD
+https://ccv3.azureedge.net//hls1/warner-sd.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , UNIVERSAL CHANNEL
+https://ccv3.azureedge.net//hls1/universal.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , UNIVERSAL CHANNEL -SD
+https://ccv3.azureedge.net//hls1/universal-sd.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , TNT SERIES
+https://ccv3.azureedge.net//hls1/tntseries.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , TNT SERIES -SD
+https://ccv3.azureedge.net//hls1/tntseries-sd.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , TELECINEPIPOCA
+https://ccv3.azureedge.net//hls1/telecinepipoca.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , TELECINEPIPOCA -SD
+https://ccv3.azureedge.net//hls1/telecinepipoca-sd.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , MEGAPIX
+https://ccv3.azureedge.net//hls1/megapix.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , MEGAPIX SD
+https://ccv3.azureedge.net//hls1/megapix-sd.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , HBO2
+https://ccv3.azureedge.net//hls1/hbo2.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , HBO2 -SD
+https://ccv3.azureedge.net//hls1/hbo2-sd.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , HBO
+https://ccv3.azureedge.net//hls1/hbo.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , HBO -SD
+https://ccv3.azureedge.net//hls1/hbo-sd.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , FOXPREMIUM1
+https://ccv3.azureedge.net//hls1/foxpremium1.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , FOXPREMIUM1 -SD
+https://ccv3.azureedge.net//hls1/foxpremium1-sd.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , FOXPREMIUM2
+https://ccv3.azureedge.net//hls1/foxpremium2.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , FOXPREMIUM2 -SD
+https://ccv3.azureedge.net//hls1/foxpremium2-sd.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , CINEMAX
+https://ccv3.azureedge.net//hls1/cinemax.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , ACM
+https://ccv3.azureedge.net//hls1/amc.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , A&E
+https://ccv3.azureedge.net//hls1/aie.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES" , MAXPRIME
+https://ccv3.azureedge.net//hls1/maxprime.m3u8
+
+
+
+
+#EXTINF:-1 group-title="INFANTIL" ,
+
+
+
+https://canais.gratis/browse-assistir-canais-filmes-series-online-videos-1-date.html
+
+
+http://www.assistirtvbr.tv/canal/hbo-family.html
+http://www.cxtv.com.br
+http://fotodicas.com/assistir-megapix-tv-ao-vivo-online-hd/#opcao3
